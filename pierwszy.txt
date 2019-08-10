@@ -2,3 +2,5 @@ zmieniona linia kodu
 druga linia
 zmiana
 zmiana na masterze przed rebase
+DKA zmiana do PR
+zmiana po forku projektu
