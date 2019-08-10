@@ -1,3 +1,4 @@
 zmieniona linia kodu
 druga linia
 zmiana
+zmiana na masterze przed rebase
