@@ -1,1 +1,3 @@
 nowy plik wro 2
+
+to jest druga zmiana po wykonaniu fora
